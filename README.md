@@ -47,8 +47,7 @@ The goal of this task was to practice and demonstrate SQL skills by writing basi
 ```sql
 SELECT * FROM Employees;
 ```
-📸 Output: 
-<img width="629" height="473" alt="image" src="https://github.com/user-attachments/assets/6a29a287-1f1b-4598-bd8b-0eb3729a03b0" />
+📸 Output: <img width="629" height="473" alt="image" src="https://github.com/user-attachments/assets/6a29a287-1f1b-4598-bd8b-0eb3729a03b0" />
 
 </details>
 
@@ -99,8 +98,8 @@ SELECT * FROM Employees WHERE gender = 'F';
 <details>
 <summary>... View all remaining queries and screenshots</summary>
 
-🔗 See all 20 queries in [Task3.sql](Task3.sql)  
-📁 View outputs in [screenshots/](screenshots/)
+🔗 See all 20 queries in [Task3.sql](SQL/Task3.sql)  
+📁 View outputs in [screenshots/](Screenshots/)
 
 </details>
 
