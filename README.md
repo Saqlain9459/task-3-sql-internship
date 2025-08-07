@@ -32,10 +32,10 @@ The goal of this task was to practice and demonstrate SQL skills by writing basi
 
 | emp_id | name            | age | gender | dept_id | salary |
 |--------|-----------------|-----|--------|----------------|--------|
-| 1      | Amit Sharma     | 28  | M      | 101            | 52000  |
-| 2      | Priya Verma     | 26  | F      | 102            | 60000  |
+| 1      | Amit Kadam      | 28  | M      | 101            | 52000  |
+| 2      | Priya Patil     | 26  | F      | 102            | 60000  |
 | ...    | ...             | ... | ...    | ...            | ...    |
-| 20     | Radhika Pandey  | 28  | F      | 105            | 58000  |
+| 20     | Radhika Chavan  | 28  | F      | 105            | 58000  |
 
 ---
 
@@ -47,7 +47,7 @@ The goal of this task was to practice and demonstrate SQL skills by writing basi
 ```sql
 SELECT * FROM Employees;
 ```
-📸 Output: <img width="629" height="473" alt="image" src="https://github.com/user-attachments/assets/6a29a287-1f1b-4598-bd8b-0eb3729a03b0" />
+📸 Output:   <img width="629" height="473" alt="image" src="https://github.com/user-attachments/assets/6a29a287-1f1b-4598-bd8b-0eb3729a03b0" />
 
 </details>
 
