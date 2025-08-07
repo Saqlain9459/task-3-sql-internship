@@ -47,7 +47,7 @@ The goal of this task was to practice and demonstrate SQL skills by writing basi
 ```sql
 SELECT * FROM Employees;
 ```
-📸 Output:   <img width="629" height="473" alt="image" src="https://github.com/user-attachments/assets/6a29a287-1f1b-4598-bd8b-0eb3729a03b0" />
+ <img width="629" height="473" alt="image" src="https://github.com/user-attachments/assets/6a29a287-1f1b-4598-bd8b-0eb3729a03b0" />
 
 </details>
 
@@ -57,7 +57,7 @@ SELECT * FROM Employees;
 ```sql
 SELECT * FROM departments;
 ```
-📸 Output: 
+
 <img width="285" height="239" alt="image" src="https://github.com/user-attachments/assets/31491c65-03cc-430c-b401-40eb10ed54e6" />
 
 </details>
@@ -68,7 +68,7 @@ SELECT * FROM departments;
 ```sql
 SELECT name, salary FROM Employees;
 ```
-📸 Output: 
+
 <img width="288" height="525" alt="image" src="https://github.com/user-attachments/assets/85dc0939-d546-4175-b00d-0f19c697051b" />
 
 </details>
@@ -79,7 +79,7 @@ SELECT name, salary FROM Employees;
 ```sql
 SELECT * FROM Employees WHERE age > 30;
 ```
-📸 Output: 
+
 <img width="295" height="270" alt="image" src="https://github.com/user-attachments/assets/22aa1137-898a-4ae3-a00b-a7cd22f29be4" />
 </details>
 
@@ -90,7 +90,7 @@ SELECT * FROM Employees WHERE age > 30;
 ```sql
 SELECT * FROM Employees WHERE gender = 'F';
 ```
-📸 Output: 
+ 
 <img width="579" height="356" alt="image" src="https://github.com/user-attachments/assets/b1b7e33a-f167-4c13-a288-67ced4f459bd" />
 
 </details>
